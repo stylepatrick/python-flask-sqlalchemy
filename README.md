@@ -1,5 +1,6 @@
 # python-flask-sqlalchemy
- Python template to build a rest api with ORM. Select, insert and delete data from PostgresDB.
+ Template for connection to Postgres with ORM. Flask and SQLAlchemy used.
 
+# Environment
 .env File with following content needed to start the application:
 POSTGRES=postgresql://python:python@localhost:25432/python
